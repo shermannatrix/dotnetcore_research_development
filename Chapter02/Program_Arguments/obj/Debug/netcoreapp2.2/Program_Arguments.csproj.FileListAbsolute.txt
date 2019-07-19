@@ -1,0 +1,11 @@
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/bin/Debug/netcoreapp2.2/Program_Arguments.deps.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/bin/Debug/netcoreapp2.2/Program_Arguments.runtimeconfig.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/bin/Debug/netcoreapp2.2/Program_Arguments.runtimeconfig.dev.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/bin/Debug/netcoreapp2.2/Program_Arguments.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/bin/Debug/netcoreapp2.2/Program_Arguments.pdb
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.csprojAssemblyReference.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.csproj.CoreCompileInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.AssemblyInfoInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.AssemblyInfo.cs
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Program_Arguments/obj/Debug/netcoreapp2.2/Program_Arguments.pdb

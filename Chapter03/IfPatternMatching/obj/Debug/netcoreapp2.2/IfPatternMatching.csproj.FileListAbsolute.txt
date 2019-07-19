@@ -1,0 +1,11 @@
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/bin/Debug/netcoreapp2.2/IfPatternMatching.deps.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/bin/Debug/netcoreapp2.2/IfPatternMatching.runtimeconfig.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/bin/Debug/netcoreapp2.2/IfPatternMatching.runtimeconfig.dev.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/bin/Debug/netcoreapp2.2/IfPatternMatching.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/bin/Debug/netcoreapp2.2/IfPatternMatching.pdb
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.csprojAssemblyReference.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.csproj.CoreCompileInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.AssemblyInfoInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.AssemblyInfo.cs
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/IfPatternMatching/obj/Debug/netcoreapp2.2/IfPatternMatching.pdb

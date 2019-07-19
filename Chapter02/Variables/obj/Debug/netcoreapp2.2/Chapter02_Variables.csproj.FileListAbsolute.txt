@@ -1,0 +1,11 @@
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/bin/Debug/netcoreapp2.2/Chapter02_Variables.deps.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/bin/Debug/netcoreapp2.2/Chapter02_Variables.runtimeconfig.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/bin/Debug/netcoreapp2.2/Chapter02_Variables.runtimeconfig.dev.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/bin/Debug/netcoreapp2.2/Chapter02_Variables.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/bin/Debug/netcoreapp2.2/Chapter02_Variables.pdb
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.csprojAssemblyReference.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.csproj.CoreCompileInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.AssemblyInfoInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.AssemblyInfo.cs
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter02/Chapter02_Variables/obj/Debug/netcoreapp2.2/Chapter02_Variables.pdb

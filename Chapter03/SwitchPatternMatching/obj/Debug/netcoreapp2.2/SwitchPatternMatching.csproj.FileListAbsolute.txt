@@ -1,0 +1,11 @@
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.csprojAssemblyReference.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.csproj.CoreCompileInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.AssemblyInfoInputs.cache
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.AssemblyInfo.cs
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/bin/Debug/netcoreapp2.2/SwitchPatternMatching.deps.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/bin/Debug/netcoreapp2.2/SwitchPatternMatching.runtimeconfig.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/bin/Debug/netcoreapp2.2/SwitchPatternMatching.runtimeconfig.dev.json
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/bin/Debug/netcoreapp2.2/SwitchPatternMatching.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/bin/Debug/netcoreapp2.2/SwitchPatternMatching.pdb
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.dll
+/home/thecxhacker/research-development/dotnetcore_research_development/Chapter03/SwitchPatternMatching/obj/Debug/netcoreapp2.2/SwitchPatternMatching.pdb
